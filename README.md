@@ -26,9 +26,9 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1yJU4ysqyd557TBBEIfZDOn9KTfMsV376/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/Di75cdyZbh3MLMTxQb/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://www.apowersoft.com/free-online-screen-recorder).
+GIF created with [Apowersoft](https://www.apowersoft.com/free-online-screen-recorder).
 
 ## Notes
 
