@@ -13,23 +13,22 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can enter in a bill amount (total amount to tip on)
-* [ ] User can enter a tip percentage (what % the user wants to tip).
-* [ ] The tip and total amount are updated immediately when any of the inputs changes.
-* [ ] The user sees a label or color update based on the tip amount. 
+* [x] User can enter in a bill amount (total amount to tip on)
+* [x] User can enter a tip percentage (what % the user wants to tip).
+* [x] The tip and total amount are updated immediately when any of the inputs changes.
+* [x] The user sees a label or color update based on the tip amount. 
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] User can round up or down the total amount of tip by checking boxes
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1yJU4ysqyd557TBBEIfZDOn9KTfMsV376/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](https://www.apowersoft.com/free-online-screen-recorder).
 
 ## Notes
 
