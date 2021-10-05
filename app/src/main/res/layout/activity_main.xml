@@ -98,4 +98,26 @@
         app:layout_constraintBottom_toBottomOf="@+id/tvBaseLevel"
         app:layout_constraintStart_toEndOf="@+id/tvBaseLevel"
         app:layout_constraintTop_toTopOf="@+id/tvBaseLevel" />
+
+    <CheckBox
+        android:id="@+id/cbRoundUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:onClick="onCheckboxClicked"
+        android:text="Round Up Total"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvTotalLabel" />
+
+    <CheckBox
+        android:id="@+id/cbRoundDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="20dp"
+        android:onClick="onCheckboxClicked"
+        android:text="Round Down Total"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cbRoundUp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
